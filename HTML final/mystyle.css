@@ -1,0 +1,144 @@
+.menu {
+
+    margin-left: 100px;
+    
+    margin-top: 20px;
+    
+    color: rgb(7, 1, 56);
+    
+    font-family: 'Times New Roman', Times, serif;
+    
+    font-size: 20px;
+    
+    display: inline-block;
+    
+    font-weight: 300;
+    
+    }
+    
+    .menu:hover {
+    
+    color:rgb(63, 95, 238);
+    
+    }
+    
+    .title{
+    
+    margin-left: 500px;
+    color:rgb(3, 27, 78);
+    width:800px;
+    
+    font-family: 'Times New Roman', Times, serif;
+    
+    font-size: 45px;
+    
+    margin-top: 100px;
+    margin-bottom: 30px;
+    display:block;
+
+    
+    }
+    
+    .undertitle{
+    
+    color: rgb(3, 27, 78);
+    
+    margin-left: 500px;
+
+    font-size: 30px;
+    
+    font-family: 'Times New Roman', Times, serif;
+    
+    margin-top: 20px;
+    
+    margin-bottom: 40px;
+    
+    display: inline-block;
+    
+    }
+   
+    .first{
+        color:rgb(6, 30, 77);
+        margin-left:500px;
+        font-size:30px;
+        margin-top: 20px;
+        margin-bottom: 24px;
+    }
+    .second{
+        color:rgb(3, 3, 94);
+        margin-left: 290px;
+        font-size:30px;
+        margin-top: 25px;
+    }
+    .text{
+        color:rgb(4, 13, 97);
+        margin: 60px auto;
+        font-size:25px;
+        width: 800px;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .image{
+        width: 800px;
+        display: block;
+        margin: 0 auto;
+    }
+    .descript{
+
+width: 800px;
+
+display: block;
+
+margin: 60px auto;
+
+font-family: 'Times New Roman', Times, serif;
+
+color: rgb(2, 9, 71);
+
+font-size: 20px;
+
+}
+header {
+
+    position:sticky;
+    
+    top:0;
+    
+   
+    
+    }
+    
+    .subscribe{
+    
+    padding:15px;
+    
+    background-color: rgb(10, 66, 150);
+    
+    }
+    
+.review{
+
+    margin-top: 50px;
+    border: 1px solid black;
+    padding:20px;
+}
+
+.rating{
+    font-size: 24px;
+    margin-botton: 10px;
+
+}
+
+.star{
+    color:rgb(255, 251, 0);
+}
+
+
+input[type="text"], select, textarea{
+    
+    width:100%;
+    padding:12px;
+    border: 1px solid rgb(8, 0, 0);
+    margin-top: 10px;
+    margin-bottom: 20px;
+
+}
